@@ -1,0 +1,2 @@
+export const AGREGAR_CURSO = "AGREGAR_CURSO";
+export const QUITAR_CURSO = "QUITAR_CURSO";
